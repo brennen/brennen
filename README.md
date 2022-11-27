@@ -1,6 +1,6 @@
-- I'm Brennen.
+- I'm Brennen. You might know me from SparkFun, Adafruit, a handful of DigitalOcean tutorials, the Wikimedia Foundation, or VimWiki.
 - I think GitHub is an antipattern. Monopoly control of huge swaths of software development is a pathology, and giant corporations tend almost inescapably towards actual evil.
-- I maintain an account here for pragmatic reasons, but limit my use of the service as best I can. Most of my public work can be found:
+- I maintain an account here for pragmatic reasons, but limit my use of the service as best I can. Most of my recent public work can be found:
    - On [Wikimedia's Gerrit instance](https://gerrit.wikimedia.org/)
    - On [Wikimedia's GitLab instance](https://gitlab.wikimedia.org/)
    - On [Wikimedia's Phabricator instance](https://phabricator.wikimedia.org/)
